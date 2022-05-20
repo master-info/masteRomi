@@ -1,0 +1,16 @@
+Package: masteRomi
+Type: Package
+Date: 2022-05-31
+Title: Dati e Poligoni geografici utilizzati per il progetto di Geodemografica Zone OMI Italia.
+Version: 0.1.0
+Authors@R: person("Luca", "Valnegri", email = "l.valnegri@datamaps.co.uk", role = c("aut", "cre"))
+Description: Dati e Poligoni geografici per consentire la costruzione di API ed applicazioni web per l'analisi spaziale geodemografica delle Zone OMI per MaSTeR Information, Milano, Italy.
+License: file LICENSE
+Encoding: UTF-8
+Depends: R (>= 4.1)
+Imports:
+    data.table
+    sf
+Suggests:
+LazyData: true
+RoxygenNote: 7.2.0

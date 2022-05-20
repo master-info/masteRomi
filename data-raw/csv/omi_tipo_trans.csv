@@ -1,0 +1,18 @@
+sigla,descrizione,gruppo,ordine
+fino_a_50,Fino a 50mq,Residenziali,101
+50-85,Da 50mq a 85mq,Residenziali,102
+85-115,Da 85mq a 115mq,Residenziali,103
+115-145,Da 115mq a 145mq,Residenziali,104
+oltre_145,Oltre 145mq,Residenziali,105
+TOT_RES,Totale Transazioni,Residenziali,109
+Box,Box,,,111
+Depositi_Pert,,,112
+Uffici,Uffici,,,121
+Negozi_Lab,Negozi e Laboratori,,,122
+Depositi_Comm,,,123
+TCO_B04,,,126
+TCO_D02,,,127
+TCO_D05,,,128
+TCO_D08,,,129
+PRO,,,131
+AGR,,,132

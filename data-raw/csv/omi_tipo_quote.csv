@@ -1,0 +1,19 @@
+codice,descrizione,gruppo,ordine
+20,Abitazioni civili,Residenze,101
+21,Abitazioni di tipo economico,Residenze,102
+19,Abitazioni signorili,Residenze,103
+1,Ville e Villini,Residenze,104
+22,Abitazioni tipiche dei luoghi,Residenze,105
+23,Pensioni e assimilati,Residenze,106
+5,Negozi,Commerciale,111
+17,Centri commerciali,Commerciale,112
+6,Uffici,Terziario,121
+18,Uffici strutturati,Terziario,122
+9,Magazzini,Produttivo,131
+10,Laboratori,Produttivo,132
+7,Capannoni tipici,Produttivo,133
+8,Capannoni industriali,Produttivo,134
+13,Box,Auto,141
+16,Autorimesse,Auto,142
+14,Posti auto coperti,Auto,143
+15,Posti auto scoperti,Auto,144

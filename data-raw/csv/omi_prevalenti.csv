@@ -1,0 +1,62 @@
+codice,descrizione,gruppo,ordine
+20,Abitazioni civili,Residenziale,101
+21,Abitazioni di tipo economico,Residenziale,102
+19,Abitazioni signorili,Residenziale,103
+1,Ville e Villini,Residenziale,104
+22,Abitazioni tipiche dei luoghi,Residenziale,105
+5,Negozi,Commerciale,111
+17,Centri commerciali,Commerciale,112
+6,Uffici,Terziario,121
+18,Uffici strutturati,Terziario,122
+9,Magazzini,Produttivo,131
+10,Laboratori,Produttivo,132
+7,Capannoni tipici,Produttivo,133
+8,Capannoni industriali,Produttivo,134
+131,Vigneto Irriguo,Colture Arboree,151
+132,Vigneto Uva Tavola,Colture Arboree,152
+133,Vigneto Frutteto,Colture Arboree,153
+134,Vigneto Uliveto,Colture Arboree,154
+129,Vigneto,Colture Arboree,155
+234,Vigneti,Colture Arboree,156
+136,Uliveto,Colture Arboree,161
+143,Uliveto Vigneto,Colture Arboree,162
+137,Uliveto Agrumeto,Colture Arboree,163
+149,Agrumeto,Colture Arboree,171
+151,Agrumeto Irriguo,Colture Arboree,172
+152,Agrumeto Uliveto,Colture Arboree,173
+154,Aranceto,Colture Arboree,174
+147,Frutteto,Colture Arboree,181
+148,Frutteto Irriguo,Colture Arboree,182
+180,Pometo,Colture Arboree,183
+158,Castagneto,Colture Arboree,184
+159,Castagneto da Frutto,Colture Arboree,185
+169,Mandorleto,Colture Arboree,186
+174,Noccioleto,Colture Arboree,187
+126,Vivaio,Orticolture,191
+114,Marcita,Orticolture,192
+118,Orto Irriguo,Orticolture,193
+233,Orti,Orticolture,194
+117,Orto,Orticolture,195
+102,Seminativo Irriguo,Seminativo,201
+103,Seminativo Arborato,Seminativo,202
+104,Seminativo Arborato Irriguo,Seminativo,203
+105,Seminativo Irriguo Arborato,Seminativo,204
+231,Seminativi,Seminativo,205
+101,Seminativo,Seminativo,206
+230,Arativi,Seminativo,207
+192,Pascolo Arborato,Pascolo,211
+193,Pascolo Cespugliato,Pascolo,212
+235,Pascoli,Pascolo,213
+191,Pascolo,Pascolo,214
+109,Prato Irriguo,Prato,221
+110,Prato Arborato,Prato,222
+232,Prati,Prato,223
+108,Prato,Prato,224
+197,Bosco Ceduo,Boschivo,231
+198,Bosco Misto,Boschivo,232
+199,Bosco d`alto Fusto,Boschivo,233
+238,Boschi,Boschivo,234
+201,Incolto Produttivo,Incolto,241
+250,Incolto Sterile,Incolto,242
+237,Laghi Paludi Stagni,Laghi Paludi Stagni,251
+0,Non presente,Non presente,255
